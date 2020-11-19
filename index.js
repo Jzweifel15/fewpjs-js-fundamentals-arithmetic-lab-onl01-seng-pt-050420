@@ -4,4 +4,4 @@ let multiply = num1 * num2;
 
 let random = Math.random() + 1;
 
-let remainderOfFour = 19 % 5;
+let mod = 19 % 5;
